@@ -2,4 +2,4 @@
 The backend code of a fullstack application
 
 ## What it Does
-A simple program that adds and loads current users
+A simple program that adds and loads current users using Spring Boot
